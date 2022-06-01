@@ -13,6 +13,6 @@ print(
 #l_equals = int(bmi - 20)
 #r_equals = int(50 - bmi)
 #print(
-#"Ваш индекс массы тела:" , round(bmi , 2) ,
+    #"Ваш индекс массы тела:" , round(bmi , 2) ,
     #"\n20" + "=" * l_equals + "|" + "=" * r_equals + "50"
 #)
