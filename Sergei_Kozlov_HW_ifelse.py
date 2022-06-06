@@ -3,7 +3,7 @@ number2 = int(input("Введите второе число:"))
 number3 = int(input("Введите третье число:"))
 
 number1 and number2 and number3 and print("Нет нулевых значений!!!")
-print(number1 or number2 or number3 or "Введены все нули!")
+print(number1 or number2 or number3 or "Введены все нули!!!")
 
 
 if number1 > number2 + number3:
