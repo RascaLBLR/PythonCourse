@@ -15,5 +15,5 @@ if number1 < number2 + number3:
 if number1 > 50 and (number2 > number1 or number3 > number1):
     print("Вася")
 
-if number1 > 5 or number2 == 7 and number3 == 7:
+if number1 > 5 or (number2 == 7 and number3 == 7):
     print("Петя")
